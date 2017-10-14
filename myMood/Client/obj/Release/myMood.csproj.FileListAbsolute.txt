@@ -1,0 +1,9 @@
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\bin\Release\myMood.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\bin\Release\myMood.pdb
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\myMood.frmMain.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\myMood.Properties.Resources.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\GenerateResource.read.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\GenerateResource.write.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\myMood.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\myMood\Client\obj\Release\myMood.pdb

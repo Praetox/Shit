@@ -1,0 +1,17 @@
+;
+; Price list for shearing / gauges
+; 
+; Gauge, 1st cut, 2nd+ cut
+;
+16	4,00	1,50
+14	4,00	1,50
+12	4,50	2,00
+11	4,50	2,00
+10	4,50	2,00
+3/16	6,00	2,00
+1/4	6,00	2,00
+3/8	8,00	3,00
+1/2	8.00	3,00
+; 
+; End price list for shearing / gauges
+; 

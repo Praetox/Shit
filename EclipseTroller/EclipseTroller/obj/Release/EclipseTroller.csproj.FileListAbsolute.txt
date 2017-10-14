@@ -1,0 +1,9 @@
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\bin\Release\EclipseTroller.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\bin\Release\EclipseTroller.pdb
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\EclipseTroller.Form1.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\EclipseTroller.Properties.Resources.resources
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\GenerateResource.read.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\GenerateResource.write.1.tlog
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\EclipseTroller.exe
+F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller\obj\Release\EclipseTroller.pdb

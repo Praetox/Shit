@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cTNChat">
+</Property><Property Name="Solution File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\cTNChat.sln">
+</Property><Property Name="User Options File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\cTNChat.suo">
+</Property><Property Name="Date" Value="Wednesday, January 04, 2012">
+</Property><Property Name="Time" Value="19:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cTNChat.sln" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cTNChat.suo" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat.suo">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\cTNChat.csproj" Description="Project file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat\cTNChat.csproj">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\cTNChat.csproj.user" Description="Project user file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat\cTNChat.csproj.user">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\Program.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat\Program.cs">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\cTNChat\Backup\cTNChat\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\cTNChat.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cTNChat" Source="cTNChat\cTNChat.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cTNChat.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cTNChat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cTNChat" Source="cTNChat\cTNChat.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EclipseTroller">
+</Property><Property Name="Solution File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller.sln">
+</Property><Property Name="User Options File" Value="F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\EclipseTroller.suo">
+</Property><Property Name="Date" Value="Wednesday, January 04, 2012">
+</Property><Property Name="Time" Value="19:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EclipseTroller.sln" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EclipseTroller.suo" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller.suo">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\EclipseTroller.csproj" Description="Project file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\EclipseTroller.csproj">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\EclipseTroller.csproj.user" Description="Project user file successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\EclipseTroller.csproj.user">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Form1.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Form1.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Form1.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Program.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Program.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Properties\Settings.settings" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Form1.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Form1.resx">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\Properties\Resources.resx" Description="File successfully backed up as F:\Visual Basic\SAUCE\PTSOURCE\Shit\EclipseTroller\Backup\EclipseTroller\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\EclipseTroller.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EclipseTroller" Source="EclipseTroller\EclipseTroller.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EclipseTroller.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EclipseTroller.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EclipseTroller" Source="EclipseTroller\EclipseTroller.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
